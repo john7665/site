@@ -8,6 +8,7 @@ slides:
   - human-computers
   - transistor-radio
   - swyftware
+  - pulsar-watch
   - emulators 
   - android-emulator
   - smalltalk
