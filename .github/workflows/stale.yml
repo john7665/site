@@ -3,7 +3,7 @@
 # You can adjust the behavior by modifying this file.
 # For more information, see:
 # https://github.com/actions/stale
-name: Mark stale issues and pull requests
+name: Mark stale pull requests
 
 on:
   schedule:
@@ -22,4 +22,4 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         days-before-stale: 7
         stale-pr-message: "A PR hasn't been interacted with for 7 days"
-        stale-pr-label: 'no-pr-activity'
+        stale-pr-label: 'stale'
