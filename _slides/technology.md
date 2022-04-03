@@ -8,8 +8,10 @@ slides:
   - human-computers
   - transistor-radio
   - swyftware
+  - pulsar
   - emulators 
   - android-emulator
   - smalltalk
+  - edwin-catmull
 ---
 
